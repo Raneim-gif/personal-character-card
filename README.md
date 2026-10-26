@@ -63,6 +63,9 @@ The goal of this project is to practice and demonstrate:
 - Responsive web design
 - Basic Git/GitHub workflow
 
+  <img width="546" height="850" alt="image" src="https://github.com/user-attachments/assets/90f60425-64ba-4e04-a554-2f50fc6306e4" />
+
+
 ## 👨‍💻 Author
 
 **Daniel Zaitsau**
