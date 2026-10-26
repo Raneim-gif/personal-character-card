@@ -25,7 +25,6 @@ The project is currently focused on building the HTML structure and basic card l
 
 - HTML5
 - CSS3
-- JavaScript
 - Git
 - GitHub
 
